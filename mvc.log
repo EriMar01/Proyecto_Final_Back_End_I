@@ -1,0 +1,114 @@
+[2024-08-15 22:32:55] [ INFO ] [BD:41] Estamos creando la tabla odontologos
+[2024-08-15 22:32:55] [ INFO ] [BD:44] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-20 21:26:59] [ INFO ] [BD:41] Estamos creando la tabla odontologos
+[2024-08-20 21:26:59] [ INFO ] [BD:44] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-20 21:30:51] [ INFO ] [BD:41] Estamos creando la tabla odontologos
+[2024-08-20 21:30:51] [ INFO ] [BD:44] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-20 21:34:30] [ INFO ] [BD:41] Estamos creando la tabla odontologos
+[2024-08-20 21:34:30] [ INFO ] [BD:44] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-20 21:35:33] [ INFO ] [BD:41] Estamos creando la tabla odontologos
+[2024-08-20 21:35:33] [ INFO ] [BD:44] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-20 21:42:37] [ INFO ] [BD:41] Estamos creando la tabla odontologos
+[2024-08-20 21:42:38] [ INFO ] [BD:44] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-20 21:43:20] [ INFO ] [ImplementacionPaciente:21] Estamos guardando un odontologo
+[2024-08-20 21:43:21] [ INFO ] [ImplementacionPaciente:58] Guardamos el odontologo con nombre Vanina
+[2024-08-20 21:46:30] [ INFO ] [ImplementacionPaciente:21] Estamos guardando un odontologo
+[2024-08-20 21:46:30] [ INFO ] [ImplementacionPaciente:58] Guardamos el odontologo con nombre Aixa
+[2024-08-20 21:47:06] [ INFO ] [ImplementacionPaciente:21] Estamos guardando un odontologo
+[2024-08-20 21:47:06] [ INFO ] [ImplementacionPaciente:58] Guardamos el odontologo con nombre Aixa
+[2024-08-20 21:55:56] [ INFO ] [BD:41] Estamos creando la tabla odontologos
+[2024-08-20 21:55:56] [ INFO ] [BD:44] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-20 21:59:21] [ INFO ] [BD:41] Estamos creando la tabla odontologos
+[2024-08-20 21:59:21] [ INFO ] [BD:44] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-20 22:00:27] [ INFO ] [BD:41] Estamos creando la tabla odontologos
+[2024-08-20 22:00:27] [ INFO ] [BD:44] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-20 22:02:35] [ INFO ] [BD:41] Estamos creando la tabla odontologos
+[2024-08-20 22:02:35] [ INFO ] [BD:44] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-20 22:02:53] [ INFO ] [ImplementacionPaciente:22] Estamos guardando un odontologo
+[2024-08-20 22:02:53] [ INFO ] [ImplementacionPaciente:59] Guardamos el odontologo con nombre Aixa
+[2024-08-20 22:03:10] [ INFO ] [ImplementacionPaciente:22] Estamos guardando un odontologo
+[2024-08-20 22:03:10] [ INFO ] [ImplementacionPaciente:59] Guardamos el odontologo con nombre Vanina
+[2024-08-20 22:03:35] [ INFO ] [BD:41] Estamos creando la tabla odontologos
+[2024-08-20 22:03:35] [ INFO ] [BD:44] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-20 22:03:46] [ INFO ] [ImplementacionPaciente:22] Estamos guardando un odontologo
+[2024-08-20 22:03:47] [ INFO ] [ImplementacionPaciente:59] Guardamos el odontologo con nombre Vanina
+[2024-08-20 23:56:07] [ INFO ] [BD:56] Estamos creando la tabla odontologos
+[2024-08-20 23:56:07] [ INFO ] [BD:64] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-20 23:57:52] [ INFO ] [ImplementacionPaciente:27] Estamos guardando un paciente
+[2024-08-20 23:57:52] [ INFO ] [ImplementacionPaciente:62] Guardamos el paciente con nombre Erica
+[2024-08-20 23:58:54] [ INFO ] [ImplementacionPaciente:27] Estamos guardando un paciente
+[2024-08-20 23:58:54] [ INFO ] [ImplementacionPaciente:62] Guardamos el paciente con nombre Erica
+[2024-08-21 00:19:53] [ INFO ] [BD:56] Estamos creando la tabla odontologos
+[2024-08-21 00:19:53] [ INFO ] [BD:64] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-21 00:20:12] [ INFO ] [BD:56] Estamos creando la tabla odontologos
+[2024-08-21 00:20:12] [ INFO ] [BD:64] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-22 21:43:15] [ INFO ] [BD:56] Estamos creando la tabla odontologos
+[2024-08-22 21:43:15] [ INFO ] [BD:64] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-22 21:44:43] [ INFO ] [BD:56] Estamos creando la tabla odontologos
+[2024-08-22 21:44:43] [ INFO ] [BD:64] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-22 21:45:43] [ INFO ] [BD:56] Estamos creando la tabla odontologos
+[2024-08-22 21:45:43] [ INFO ] [BD:64] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-22 21:47:51] [ INFO ] [BD:56] Estamos creando la tabla odontologos
+[2024-08-22 21:47:51] [ INFO ] [BD:64] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-22 21:50:47] [ INFO ] [BD:56] Estamos creando la tabla odontologos
+[2024-08-22 21:50:47] [ INFO ] [BD:64] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-22 21:56:21] [ INFO ] [BD:56] Estamos creando la tabla odontologos
+[2024-08-22 21:56:21] [ INFO ] [BD:64] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-22 22:03:09] [ INFO ] [BD:56] Estamos creando la tabla odontologos
+[2024-08-22 22:03:09] [ INFO ] [BD:64] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-22 22:05:37] [ INFO ] [BD:56] Estamos creando la tabla odontologos
+[2024-08-22 22:05:37] [ INFO ] [BD:64] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-22 22:06:15] [ INFO ] [ImplementacionPaciente:22] Estamos guardando un odontologo
+[2024-08-22 22:06:15] [ INFO ] [ImplementacionPaciente:59] Guardamos el odontologo con nombre Bruno
+[2024-08-22 22:06:57] [ INFO ] [ImplementacionPaciente:22] Estamos guardando un odontologo
+[2024-08-22 22:06:58] [ INFO ] [ImplementacionPaciente:59] Guardamos el odontologo con nombre Erica
+[2024-08-22 22:08:00] [ INFO ] [BD:56] Estamos creando la tabla odontologos
+[2024-08-22 22:08:00] [ INFO ] [BD:64] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-22 22:08:27] [ INFO ] [ImplementacionPaciente:22] Estamos guardando un odontologo
+[2024-08-22 22:08:27] [ INFO ] [ImplementacionPaciente:59] Guardamos el odontologo con nombre Esteban 
+[2024-08-22 22:10:37] [ INFO ] [BD:56] Estamos creando la tabla odontologos
+[2024-08-22 22:10:37] [ INFO ] [BD:64] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-22 22:10:45] [ INFO ] [BD:56] Estamos creando la tabla odontologos
+[2024-08-22 22:10:45] [ INFO ] [BD:64] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-22 22:11:13] [ INFO ] [ImplementacionPaciente:22] Estamos guardando un odontologo
+[2024-08-22 22:11:13] [ INFO ] [ImplementacionPaciente:59] Guardamos el odontologo con nombre Esteban 
+[2024-08-22 22:12:49] [ INFO ] [BD:56] Estamos creando la tabla odontologos
+[2024-08-22 22:12:49] [ INFO ] [BD:64] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-22 22:13:07] [ INFO ] [BD:56] Estamos creando la tabla odontologos
+[2024-08-22 22:13:07] [ INFO ] [BD:64] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-22 22:13:42] [ INFO ] [ImplementacionPaciente:22] Estamos guardando un odontologo
+[2024-08-22 22:13:42] [ INFO ] [ImplementacionPaciente:59] Guardamos el odontologo con nombre aa
+[2024-08-22 23:40:08] [ INFO ] [BD:56] Estamos creando la tabla odontologos
+[2024-08-22 23:40:08] [ INFO ] [BD:64] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-22 23:40:31] [ INFO ] [ImplementacionPaciente:24] Estamos guardando un odontologo
+[2024-08-22 23:40:31] [ INFO ] [ImplementacionPaciente:61] Guardamos el odontologo con nombre aaa
+[2024-08-22 23:42:57] [ INFO ] [BD:56] Estamos creando la tabla odontologos
+[2024-08-22 23:42:57] [ INFO ] [BD:64] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-22 23:43:16] [ INFO ] [ImplementacionPaciente:25] Estamos guardando un odontologo
+[2024-08-22 23:43:16] [ INFO ] [ImplementacionPaciente:62] Guardamos el odontologo con nombre aaa
+[2024-08-22 23:48:11] [ INFO ] [BD:56] Estamos creando la tabla odontologos
+[2024-08-22 23:48:11] [ INFO ] [BD:64] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-22 23:48:33] [ INFO ] [ImplementacionPaciente:25] Estamos guardando un odontologo
+[2024-08-22 23:48:33] [ INFO ] [ImplementacionPaciente:62] Guardamos el odontologo con nombre aaa
+[2024-08-22 23:53:30] [ INFO ] [BD:56] Estamos creando la tabla odontologos
+[2024-08-22 23:53:30] [ INFO ] [BD:64] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-22 23:54:23] [ INFO ] [BD:56] Estamos creando la tabla odontologos
+[2024-08-22 23:54:23] [ INFO ] [BD:64] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-22 23:54:47] [ INFO ] [BD:56] Estamos creando la tabla odontologos
+[2024-08-22 23:54:47] [ INFO ] [BD:64] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-23 00:00:32] [ INFO ] [BD:56] Estamos creando la tabla odontologos
+[2024-08-23 00:00:32] [ INFO ] [BD:64] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-23 00:08:49] [ INFO ] [BD:56] Estamos creando la tabla odontologos
+[2024-08-23 00:08:49] [ INFO ] [BD:64] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-23 00:09:56] [ INFO ] [BD:56] Estamos creando la tabla odontologos
+[2024-08-23 00:09:56] [ INFO ] [BD:64] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-23 00:12:46] [ INFO ] [BD:56] Estamos creando la tabla odontologos
+[2024-08-23 00:12:46] [ INFO ] [BD:64] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-23 00:14:57] [ INFO ] [BD:56] Estamos creando la tabla odontologos
+[2024-08-23 00:14:57] [ INFO ] [BD:64] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-23 00:17:51] [ INFO ] [BD:56] Estamos creando la tabla odontologos
+[2024-08-23 00:17:51] [ INFO ] [BD:64] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-23 00:20:33] [ INFO ] [BD:56] Estamos creando la tabla odontologos
+[2024-08-23 00:20:33] [ INFO ] [BD:64] Estamos insertando un odontologo en la tabla odontologos
+[2024-08-23 00:21:20] [ INFO ] [BD:56] Estamos creando la tabla odontologos
+[2024-08-23 00:21:20] [ INFO ] [BD:64] Estamos insertando un odontologo en la tabla odontologos

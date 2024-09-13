@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Agregar Paciente</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <style>
+        body {
+            background-color: #f4f7f6;
+            font-family: Arial, sans-serif;
+        }
+        .navbar {
+            background-color: #343a40;
+        }
+        .navbar-brand {
+            color: #ffffff;
+        }
+        .navbar-brand:hover {
+            color: #f8f9fa;
+        }
+        .form-container {
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin-top: 20px;
+        }
+        .btn-custom {
+            background-color: #007bff;
+            color: white;
+            border-radius: 20px;
+            padding: 10px 20px;
+            font-size: 16px;
+        }
+        .btn-custom:hover {
+            background-color: #0056b3;
+            color: white;
+        }
+        .nav-item .btn {
+            background-color: #007bff;
+            border: none;
+            color: white;
+            border-radius: 20px;
+            padding: 10px 20px;
+        }
+        .nav-item .btn:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark">
+    <a class="navbar-brand" href="#">Sistema de Odontología</a>
+</nav>
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="form-container">
+                <div class="d-flex justify-content-between align-items-center mb-4">
+                    <h3>Agregar Paciente</h3>
+                    <a class="btn btn-custom" href="/">Inicio</a>
+                    <a class="btn btn-custom" href="/pacienteList.html">Listar</a>
+                </div>
+                <form id="add_new_paciente">
+                    <div class="row">
+                        <!-- Tarjeta de Datos del Paciente -->
+                        <div class="col-md-6 mb-3">
+                            <div class="card">
+                                <div class="card-header">
+                                    Datos del Paciente
+                                </div>
+                                <div class="card-body">
+                                    <div class="form-group">
+                                        <label for="nombre">Nombre:</label>
+                                        <input type="text" class="form-control" id="nombre"
+                                               placeholder="Ingrese el nombre"
+                                               name="nombre" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="apellido">Apellido:</label>
+                                        <input type="text" class="form-control" id="apellido"
+                                               placeholder="Ingrese el apellido"
+                                               name="apellido" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="dni">DNI:</label>
+                                        <input type="text" class="form-control" id="dni"
+                                               placeholder="Ingrese el DNI"
+                                               name="dni" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="fechaAlta">Fecha de Alta:</label>
+                                        <input type="date" class="form-control" id="fechaAlta"
+                                               placeholder="Ingrese la fecha de alta"
+                                               name="fechaAlta" required>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Tarjeta de Domicilio -->
+                        <div class="col-md-6 mb-3">
+                            <div class="card">
+                                <div class="card-header">
+                                    Domicilio
+                                </div>
+                                <div class="card-body">
+                                    <div class="form-group">
+                                        <label for="calle">Calle:</label>
+                                        <input type="text" class="form-control" id="calle"
+                                               placeholder="Ingrese la calle"
+                                               name="calle" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="numero">Número:</label>
+                                        <input type="number" class="form-control" id="numero"
+                                               placeholder="Ingrese el número"
+                                               name="numero" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="localidad">Localidad:</label>
+                                        <input type="text" class="form-control" id="localidad"
+                                               placeholder="Ingrese la localidad"
+                                               name="localidad" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="provincia">Provincia:</label>
+                                        <input type="text" class="form-control" id="provincia"
+                                               placeholder="Ingrese la provincia"
+                                               name="provincia" required>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-custom">Guardar</button>
+                </form>
+                <div id="response" class="mt-3" style="display:none;">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript" src="/js/post_paciente.js"></script>
+</body>
+</html>
